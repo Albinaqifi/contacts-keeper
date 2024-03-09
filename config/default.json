@@ -1,0 +1,4 @@
+{
+    "mongoURI": "mongodb+srv://albinaqifi111:albinaqifi111@cluster2.rnoujng.mongodb.net/?retryWrites=true&w=majority&appName=Cluster2",
+    "jwtSecret": "secret"
+}
